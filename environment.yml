@@ -1,0 +1,5 @@
+name: leetcode
+channels:
+  - conda-forge
+  - defaults
+prefix: C:\Users\edgor\anaconda3\envs\leetcode
