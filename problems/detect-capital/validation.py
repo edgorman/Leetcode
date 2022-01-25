@@ -13,7 +13,7 @@ testCases = [
     ("aA", False),
 ]
 
-@pytest.mark.parametrize("word, expected", testCases)
-def testSolution(word, expected):
-    result = S.detectCapitalUse(word)
+@pytest.mark.parametrize("input, expected", testCases)
+def testSolution(input, expected):
+    result = S.detectCapitalUse(input)
     assert result == expected
