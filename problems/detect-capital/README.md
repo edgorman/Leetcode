@@ -1,10 +1,10 @@
 # 520. Detect Capital 
 
-## Description
-
 Difficulty: ```Easy```
 
 Source: https://leetcode.com/problems/detect-capital/
+
+## Description
 
 We define the usage of capitals in a word to be right when one of the following cases holds:
 
