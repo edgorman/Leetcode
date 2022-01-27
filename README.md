@@ -1,8 +1,8 @@
 # Leetcode
 
-> Leetcode is a common interview assessment proces for understanding how well an applicant is able to understand, develop and explain the coding process through their approach to solving a given problem. Solutions are judged on their correctness, readability, and how optimal it is in terms of space and time complexity.
+> Leetcode is a common interview assessment process for demonstrating how able an applicant is at understanding, developing and explaining a solution to an unknown coding problem. Solutions are judged on their correctness, readability, and how optimal it is in terms of the space and time complexity of the program when executing.
 
-_Description from me_
+_Description by me_
 
 This repository documents my attempts for the problems hosted on [leetcode.com](leetcode.com/problemset/all) and are predominantly written in Python.
 
