@@ -28,9 +28,6 @@ inputs = [
 ]
 
 solution = Solution()
-results = []
 
 for input in inputs:
-    results.append(solution.run(**input))
-
-print(results)
+    print("input", input, "answer:", solution.run(**input))
